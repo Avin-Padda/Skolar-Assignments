@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nested Lists</title>
+</head>
+<body>
+    <caption><h2 align="center">Top 5 Movies List</h2></caption>
+    <ol>
+        <li><b>The Shawshank Redemption</b>
+            <ul>
+                <li><b>Release Year:</b> 1994</li>
+                <li><b>Actors:</b> Tim Robbins, Morgan Freeman, Bob Gunton</li>
+                <li><b>Description:</b> Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.</li>
+            </ul>
+        </li>
+        <li><b>The Godfather</b>
+        <ul>
+            <li><b>Release Year:</b> 1972</li>
+            <li><b>Actors:</b> Marlon Brando, Al Pacino, James Caan</li>
+            <li><b>Description:</b> The Godfather "Don" Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WWII Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.</li>
+        </ul>
+        </li>
+        <li><b>The Dark Knight</b>
+        <ul>
+            <li><b>Release Year:</b> 2008</li>
+            <li><b>Actors:</b> Christian Bale, Heath Ledger, Aaron Eckhart</li>
+            <li><b>Description:</b> Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as "The Joker" appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to "confront everything he believes" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes.</li>
+        </ul>
+        </li>
+        <li><b>The Godfather Part II</b>
+        <ul>
+            <li><b>Release Year:</b> 1974</li>
+            <li><b>Actors:</b> Al Pacino, Robert De Niro, Robert Duvall</li>
+            <li><b>Description:</b> The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.</li>
+        </ul>
+        </li>
+        <li><b>The Lord of the Rings: The Fellowship of the Ring</b>
+        <ul><b>Release Year:</b> 1957</ul>
+        <ul><b>Actors:</b> Elijah Wood, Ian McKellen, Orlando Bloom</ul>
+        <ul><b>Description:</b> An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it. However, he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir, and his three Hobbit friends Merry, Pippin, and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign</ul>
+        </li>
+    </ol>
+</body>
+</html>
